@@ -19,5 +19,5 @@ mkdir -p "$ORIGINAL_DIR"
 gocryptfs -extpass "echo $PASSWORD" "$ENCRYPTED_DIR" "$ORIGINAL_DIR"
 
 sudo wget https://raw.githubusercontent.com/halbseiden/infosec-projekt2/refs/heads/main/data/Screen.png
-pcmanfm --set-wallpaper Screen.png
+pcmanfm --set-wallpaper=Screen.png
 exit
