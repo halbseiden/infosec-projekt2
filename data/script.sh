@@ -1,7 +1,7 @@
 #!/bin/bash
 
-ORIGINAL_DIR="/home/admin/wichtig"
-ENCRYPTED_DIR="/home/admin/.wichtig_encrypted"
+ORIGINAL_DIR="/home/admin/Desktop/wichtig"
+ENCRYPTED_DIR="/home/admin/Desktop/.wichtig_encrypted"
 TEMP_MOUNT="/tmp/wichtig_temp"
 PASSWORD="sicher"
 
